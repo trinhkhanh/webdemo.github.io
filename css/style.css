@@ -1,0 +1,11 @@
+img#product1, #product2, #product3, #product4, #product5, #product6, #product7, #product8, #product9, #product10 {
+	max-width: 300px;
+	max-height: 300px;
+	border: solid blue;
+}
+
+img.show-product{
+	max-width: 500px;
+	max-height: 500px;
+	border: solid blue;
+}
